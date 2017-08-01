@@ -1,0 +1,18 @@
+﻿{
+  "nav": {
+    "admin": "Admin Login",
+    "basic_info": "Informacion basica",
+    "chinese": "chino",
+    "deliv_info": "Informacion de entrega",
+    "english": "Ingles",
+    "home": "casa",
+    "languages": "Idiomas",
+    "login": "Iniciar sesion",
+    "options": "Opciones",
+    "order": "ordenar pizza",
+    "register": "Conviertete en miembro",
+    "spanish": "Espanol",
+    "tutorial": "Tutorial",
+    "user_info": "informacion del usuario"
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "nav": {
+    "admin": "管理登录",
+    "basic_info": "基本信息",
+    "chinese": "中文",
+    "deliv_info": "配送信息",
+    "english": "英语",
+    "home": "主页",
+    "languages": "语言",
+    "login": "登录",
+    "options": "选项",
+    "order": "订购比萨饼",
+    "register": "成为会员",
+    "spanish": "西班牙语",
+    "tutorial": "教程",
+    "user_info": "用户信息"
+  }
+}
